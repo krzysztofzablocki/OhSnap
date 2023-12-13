@@ -21,7 +21,7 @@ This framework has been built as part of my engineering course [SwiftyStack](htt
 
 ## Demo
 1. The app runs with **OhSnap** in `.recording` mode, automatically placing all raw `Data` files into a special folder
-2. The user reports a bug, you ask **OhSnap** to record snapshot and send it to server, it generates a custom ID you can refer to.
+2. The user reports a bug, you can tell **OhSnap** to record snapshot and send it to server, it generates a custom ID you can refer to or attach to your bug report.
 3. On your device connected to debugger you simply load that snapshot and the app now switches into a replay mode and you can see EXACTLY what the user saw
 4. You can fix bugs easily
 
